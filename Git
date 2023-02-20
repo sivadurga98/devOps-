@@ -1,1 +1,21 @@
+Git Vs GitHub 
+                      Git                                                                                                                                                                                                      
+•	Version Control System                                    
+•	Installed locally on the system
+•	Created in 2005, by Linus Torvalds
+•	Open source, and used in multiple
+cloud repository services         
+
+            GitHub
+•	Git repository hosting services with other features.
+•	Runs on the cloud
+•	Created in 2008, currently owned by Microsoft.
+•	Not open source, have free and paid tiers.
+Ways to use git
+•	Command line interface (CLI) (we run in Visual studio code, cloud 9)
+•	Graphical user interface(GUI) (We run in SourceTree)
+•	In repository we run in GitHub
+•	Within DevOps tools ( we run in Jenkins) 
+
+Git Workflow
 
